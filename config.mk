@@ -25,6 +25,10 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/halcyonui/overlay
 DEVICE_PACKAGE_OVERLAYS += \
     vendor/halcyonui/overlay/common/
 
+# Navigation Bar
+PRODUCT_PACKAGES += \
+    ImmersiveNavigationOverlay
+
 # Power off charing resource
 PRODUCT_PACKAGES += \
     charger_res_images \
