@@ -102,7 +102,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 # Power off charing resource
 PRODUCT_PACKAGES += \
     charger_res_images \
-    product_charger_res_images
+    product_charger_res_images \
+    product_charger_res_images_vendor
 
 # Theme
 PRODUCT_PACKAGES += \
