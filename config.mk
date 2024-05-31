@@ -90,6 +90,7 @@ PRODUCT_PACKAGES += \
 
 # Nest Launcher
 PRODUCT_PACKAGES += \
+    NestQuickStep \
     ThemedIconsOverlay
 
 # Overlays
