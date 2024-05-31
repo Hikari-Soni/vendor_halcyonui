@@ -1,5 +1,6 @@
 #
-# Copyright (C) 2019-2021 The conquerOS Project
+# Copyright (C) 2019-2024 The conquerOS Project
+#           (C) 2021-2024 The Halcyon Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
