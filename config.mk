@@ -103,7 +103,11 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     charger_res_images \
     product_charger_res_images
-    
+
 # Theme
 PRODUCT_PACKAGES += \
     HalcyonBlackTheme
+
+# Theme Picker
+PRODUCT_PACKAGES += \
+    ThemePicker
